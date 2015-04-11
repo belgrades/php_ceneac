@@ -1,0 +1,25 @@
+1) Crear Tabla administrador con atributos 
+ID, login, password
+
+2) En venta.html colocar un hipervinculo 
+para ir a modulo administrador. Se puede ir
+ al modulo si se autentica correctamente.
+
+3) En modulo administrador permitir:
+
+** Pagina 65 de ayuda**
+
+	a) Ingresar nuevo cliente y nuevo 
+	empleado.
+	b) Eliminar clientes y empleados.
+	c) Actualizar datos de clientes y 
+	empleados.
+
+4) En venta.html, permitir agregar venta 
+   nueva.
+
+5) Listar todas las ventas.
+
+6) Suma de ventas por vendedor.
+
+7) Listar Ventas dado Vendedor Y Cliente 
